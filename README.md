@@ -99,3 +99,4 @@ Release Resources:
 Releases the video capture object and closes all OpenCV windows.
 Print Statistics:
 Prints the total dribble count, dribble efficiency, and average dribble speed (if available) to the console.
+# shortClip.mp4 is the shortclip of output vedio in the repository
