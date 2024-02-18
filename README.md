@@ -26,7 +26,7 @@ performing basketball dribble.
 ## Challenges Faced
 - **Parameter Tuning:** Adjusting parameters for background subtraction, color thresholding, and contour detection to improve accuracy and reduce noise.
 - **Noise Reduction:** Implementing techniques to reduce noise in the video, such as eroding and dilating the mask.
-- **Dribble Detection Criteria:** Defining the criteria for detecting a dribble based on the movement and speed of the basketball.
+- **Dribble Detection Criteria:** Defining the criteria for detecting a dribble based on the movement and speed of the basketball. Because the duration to complete the dribble is changing with respect to time.
 ## Metrics Used
   <ul>
     <li><b>Dribble Count:</b></li>
